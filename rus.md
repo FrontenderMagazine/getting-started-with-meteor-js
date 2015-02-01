@@ -1,11 +1,11 @@
-Ниже приведен гостевой посто от [Бена Страхана][1] - члена meteor.js клуба. Он соединил вместе крутой пост и я хочу им поделится со всем Meteor.js Клубом!
+Ниже приведен гостевой пост от [Бена Страхана][1] — члена meteor.js клуба. Он написал обобщающий крутой пост и я хочу им поделится со всем Meteor.js клубом!
 
-## Как я стал разработчиком веб приложений - *в стиле Meteor*
+## Как я стал разработчиком веб приложений — *в стиле Meteor*
 
 Что должен знать вдохновлённый веб-разработчик, чтобы создавать приложения [Meteor][2]?
 Ниже приведен список языков, фреймворков, библиотек, пакетов и многое другое ;). 
 
-Последующие списки специально даны в определённом порядке, если не сказано иного. Эта статья не объясняет почему вы должны изучать то или это (вы сами должны в этом разобраться). Вместо этого цель статьи - это дать быструю карту или вид "тысячной мили" технологий, с которыми имеет Метеор разработчик ежедневно. 
+Последующие списки специально даны в определённом порядке, если не сказано иного. Эта статья не объясняет почему вы должны изучать то или это (вы сами должны в этом разобраться). Вместо этого цель статьи — это дать быструю карту или вид «тысячной мили» технологий, с которыми имеет Метеор разработчик ежедневно. 
 
 Когда вы пробираетесь через тернии получения новых знаний, то хорошо иметь под рукой карту, на которую можно глянуть и узнать свой прогресс.
 
@@ -19,7 +19,7 @@
 
 ### Обязательно
 
-1. [Javascript][23] - Вначале JS?! Да, солдат, не задавай мне снова вопросов, а то я подыму тебя с вертухи!
+1. [Javascript][23] — Вначале JS?! Да, солдат, не задавай мне снова вопросов, а то я подыму тебя с вертухи!
 2. [Shell (Terminal)][24]
 3. [HTML & CSS][25]
 4. [JSON][26]
@@ -36,7 +36,7 @@
 1.  [NodeJS][6] 
 2.  [Cordova][7]
 3.  [ElasticSearch][8]
-4.  [Ionic][9] - пакет Meteor [Meteoric][10] 
+4.  [Ionic][9] — пакет Meteor [Meteoric][10] 
 
 ## MeteorJS
 
@@ -44,16 +44,16 @@
 
 ![газонокосилка работающая на meteor][11]
 
-Почему вам нужно изучить ВСЁ приведенное выше, перед тем как прикасаться к Метеор? Потому что Метеор - это [Full-Stack][12] платформа. Через метеор вы управляете фронт-эндом, бек-эндом и всеми остальными эндами.
+Почему вам нужно изучить ВСЁ приведенное выше, перед тем как прикасаться к Метеор? Потому что Метеор — это [Full-Stack][12] платформа. Через метеор вы управляете фронт-эндом, бек-эндом и всеми остальными эндами.
 
-...Ладно, больше никаких вопросов, давайте изучим ещё БОЛЬШЕ! 
+…Ладно, больше никаких вопросов, давайте изучим ещё БОЛЬШЕ! 
 
 Настало время становится Метеор задротом, читайте доки.
 
 *   [Основная документация по API][4]
 *   [Подпроекты][13]
 
-Если подпроекты выглядят пугающе - не волнуйтесь. Ниже приведен минимум ключевых пакетов из подпроектов, необходимых для изучения.
+Если подпроекты выглядят пугающе — не волнуйтесь. Ниже приведен минимум ключевых пакетов из подпроектов, необходимых для изучения.
 
 1.  [Blaze][14] 
 2.  [Spacebars][15]
@@ -64,25 +64,25 @@
 
 Упорядочены по сложности и глубине. Эти уроки, курсы, книги и видео проведут вас по различным проектам Meteor. Это будет кульминация всего приведенного выше.
 
-1. [Meteor's official tutorial][37] (FREE)
-2. [Your First Meteor Application][38] by David Turnbull (FREE)
-3. [Meteor Walkthrough Videos][39] by George McKnight (FREE)
-4. [Meteor Cookbook][40] by Abigail Watson
-5. [Discover Meteor][41] by Sacha Greif & Tom Coleman ($ to $$)
-6. [Meteor in Action][42] by Manuel Schoebel & Stephan Hochhaus ($)
-7. [8 Days of Meteor][43] by Josh Owens ($)
-8. [Meteor Testing][44] by Sam Hatoum ($)
-9. [Meteor Club Master Bootcamp][45] by Josh Owens ($$$)
-10. [Meteor Club Testing Bootcamp][46] by Josh Owens & Sam Hatoum ($$$)
-11. [Bulletproof Meteor][47] by Arunoda Susiripala (FREE to $$)
-12. Advance courses at [Evented Mind][48] by Chris Mather ($$)
+1. [Meteor's official tutorial][37] (бесплатно)
+2. [Your First Meteor Application][38] от David Turnbull (бесплатно)
+3. [Meteor Walkthrough Videos][39] от George McKnight (бесплатно)
+4. [Meteor Cookbook][40] от Abigail Watson
+5. [Discover Meteor][41] от Sacha Greif & Tom Coleman (от $ до $$) (прим. переводчика — есть [бесплатная версия на русском языке][153])
+6. [Meteor in Action][42] от Manuel Schoebel & Stephan Hochhaus ($)
+7. [8 Days of Meteor][43] от Josh Owens ($)
+8. [Meteor Testing][44] от Sam Hatoum ($)
+9. [Meteor Club Master Bootcamp][45] от Josh Owens ($$$)
+10. [Meteor Club Testing Bootcamp][46] от Josh Owens & Sam Hatoum ($$$)
+11. [Bulletproof Meteor][47] от Arunoda Susiripala (бесплатно или $$)
+12. Продвинутые курсы [Evented Mind][48] от Chris Mather ($$)
 
 ## Пакеты Meteor (без порядка)
 
 Да, есть ещё много для изучения. У Метеора есть менеджер пакетов, который называется [Atmosphere][18]. Он позволяет сообществу создавать пакеты, которые глубоко интегрированы в платформу Meteor и расширяют доступные для вас API. Ниже приведен список из стандартных пакетов, которые вы найдёте в почти каждом серьёзном приложении Meteor, поэтому вы их должны знать.
 
 | Название пакета | GitHub | Atmosphere | Сайт |
-| -- | -- | -- | -- |
+| --------------------------------- | ------------- | ----------------- | ------------- |
 | accounts-password 				| [github][49]  | [atmosphere][50] 	| [сайт][51] 	| 
 | useraccounts:core 				| [github][52]  | [atmosphere][53] 	| [сайт][54] 	| 
 | reactive-var						|  			    | [atmosphere][55] 	| [сайт][56] 	| 
@@ -117,7 +117,7 @@
 | dburles:factory					| [github][118] | [atmosphere][119] |           	| 
 | anti:fake							| [github][120] | [atmosphere][121] |           	| 
 
-##Кроличья нора стаёт глубже...
+##Кроличья нора стаёт глубже…
 
 Ух ты, вы должно быть упорный, раз дошли так далеко. Ладно, вы хотите знать мои суперсекретные списки?
 
@@ -125,42 +125,42 @@
 
 Когда вам нужно разместить ваше приложение он-лайн, то есть огромное количество сервис провайдеров доступных для разработчика. Ниже несколько, которые служат целям Meteor сообщества (и делают отличную работу), поэтому я решил озвучить их имена.
 
-*   [Kadira][19] - отслеживание производительности
-*   [Modulus][20] - хостинг (используйте промо-код 'Metpodcast', чтобы получить кредит в $25)
-*   [Compose][21] - хостинг Mongo БД с Oplog
+*   [Kadira][19] — отслеживание производительности
+*   [Modulus][20] — хостинг (используйте промо-код 'Metpodcast', чтобы получить кредит в $25)
+*   [Compose][21] — хостинг Mongo БД с Oplog
 
 ### Блоги, влоги, новости и остальное (без порядка) 
 
-Пойдём выпьем чего-нибудь со мной, что остудит нас после Meteor... увидишь мы будем не одни.
+Пойдём выпьем чего-нибудь со мной, что остудит нас после Meteor… увидишь мы будем не одни.
 
-[Crater.io][125] - агрегатор новостей
-[Meteor Weekly][126] - агрегатор новостей
-[Meteor's Official Blog][127] - блог
-[Josh Owens][128] - блог
-[Discover Meteor][129] - блог
-[The Meteor Chef][130] - блог
-[Differential][131] - блог
-[Gentlenode][132] - блог
-[MeteorHacks][133] - блог
-[Meteor Tips][134] - блог
-[PEM][135] - блог
-[Manuel Schoebel][136] - блог
-[Practical Meteor][137] - блог
-[Lukasz Kups][138] - блог
-[David Burles][139] - блог
-[The Meteor Podcast][140] - подкаст
-[Meteor Devshops][141] - YouTube
-[Josh Owens][142] - YouTube
-[George McKnight][143] - YouTube
-[Arunoda Susiripala][144] - YouTube
-[David Turnball][145] - YouTube
-[Sasi Kanth][146] - YouTube
-[Vianney Lecroart][147] - Medium
-[Space Camp][148] - Medium
-[Dominus][149] - Medium
-[Arunoda Susiripala][150] - Medium
-[Sacha Greif][151] - Medium
-[Paul van Zyl][152] - Medium
+[Crater.io][125] — агрегатор новостей
+[Meteor Weekly][126] — агрегатор новостей
+[Meteor's Official Blog][127] — блог
+[Josh Owens][128] — блог
+[Discover Meteor][129] — блог
+[The Meteor Chef][130] — блог
+[Differential][131] — блог
+[Gentlenode][132] — блог
+[MeteorHacks][133] — блог
+[Meteor Tips][134] — блог
+[PEM][135] — блог
+[Manuel Schoebel][136] — блог
+[Practical Meteor][137] — блог
+[Lukasz Kups][138] — блог
+[David Burles][139] — блог
+[The Meteor Podcast][140] — подкаст
+[Meteor Devshops][141] — YouTube
+[Josh Owens][142] — YouTube
+[George McKnight][143] — YouTube
+[Arunoda Susiripala][144] — YouTube
+[David Turnball][145] — YouTube
+[Sasi Kanth][146] — YouTube
+[Vianney Lecroart][147] — Medium
+[Space Camp][148] — Medium
+[Dominus][149] — Medium
+[Arunoda Susiripala][150] — Medium
+[Sacha Greif][151] — Medium
+[Paul van Zyl][152] — Medium
 
 Если я забыл кого-то, то дайте знать мне ([@_benstr][1]) или [@joshowens][22] 
 
@@ -207,7 +207,7 @@
  [38]: http://meteortips.com/
  [39]: https://www.youtube.com/channel/UC4-DIsbr23Z-rPe_F4JAH9w
  [40]: https://github.com/awatson1978/meteor-cookbook
- [41]: https://ru.discovermeteor.com/
+ [41]: https://discovermeteor.com/
  [42]: http://www.manning.com/hochhaus/
  [43]: http://8daysofmeteor.com/
  [44]: http://www.meteortesting.com/
@@ -319,3 +319,4 @@
  [150]: https://medium.com/@arunoda
  [151]: https://medium.com/@sachagreif
  [152]: https://medium.com/@pushplaybang
+ [153]: http://ru.discovermeteor.com
