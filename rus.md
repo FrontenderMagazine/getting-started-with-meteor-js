@@ -87,7 +87,7 @@
 | useraccounts:core 				| [github][52]  | [atmosphere][53] 	| [сайт][54] 	| 
 | reactive-var						|  			    | [atmosphere][55] 	| [сайт][56] 	| 
 | reactive-dict						| 			    | [atmosphere][57] 	|  		 		| 
-| iron:router 						| [github][58]  | [atmosphere][59] 	| [гид][122] [сайт][60]  | 
+| iron:router 						| [github][58]  | [atmosphere][59] 	| [руководство][122] [сайт][60]  | 
 | zimme:iron-router-active			| [github][61]  | [atmosphere][62] 	|             	| 
 | zimme:iron-router-auth			| [github][63]  | [atmosphere][64] 	|             	| 
 | manuelschoebel:ms-seo				| [github][65]  | [atmosphere][66] 	| [статья][67] 	| 
@@ -133,34 +133,34 @@
 
 Пойдём выпьем чего-нибудь со мной, что остудит нас после Meteor… увидишь мы будем не одни.
 
-[Crater.io][125] — агрегатор новостей
-[Meteor Weekly][126] — агрегатор новостей
-[Meteor's Official Blog][127] — блог
-[Josh Owens][128] — блог
-[Discover Meteor][129] — блог
-[The Meteor Chef][130] — блог
-[Differential][131] — блог
-[Gentlenode][132] — блог
-[MeteorHacks][133] — блог
-[Meteor Tips][134] — блог
-[PEM][135] — блог
-[Manuel Schoebel][136] — блог
-[Practical Meteor][137] — блог
-[Lukasz Kups][138] — блог
-[David Burles][139] — блог
-[The Meteor Podcast][140] — подкаст
-[Meteor Devshops][141] — YouTube
-[Josh Owens][142] — YouTube
-[George McKnight][143] — YouTube
-[Arunoda Susiripala][144] — YouTube
-[David Turnball][145] — YouTube
-[Sasi Kanth][146] — YouTube
-[Vianney Lecroart][147] — Medium
-[Space Camp][148] — Medium
-[Dominus][149] — Medium
-[Arunoda Susiripala][150] — Medium
-[Sacha Greif][151] — Medium
-[Paul van Zyl][152] — Medium
+- [Crater.io][125] — агрегатор новостей
+- [Meteor Weekly][126] — агрегатор новостей
+- [Meteor's Official Blog][127] — блог
+- [Josh Owens][128] — блог
+- [Discover Meteor][129] — блог
+- [The Meteor Chef][130] — блог
+- [Differential][131] — блог
+- [Gentlenode][132] — блог
+- [MeteorHacks][133] — блог
+- [Meteor Tips][134] — блог
+- [PEM][135] — блог
+- [Manuel Schoebel][136] — блог
+- [Practical Meteor][137] — блог
+- [Lukasz Kups][138] — блог
+- [David Burles][139] — блог
+- [The Meteor Podcast][140] — подкаст
+- [Meteor Devshops][141] — YouTube
+- [Josh Owens][142] — YouTube
+- [George McKnight][143] — YouTube
+- [Arunoda Susiripala][144] — YouTube
+- [David Turnball][145] — YouTube
+- [Sasi Kanth][146] — YouTube
+- [Vianney Lecroart][147] — Medium
+- [Space Camp][148] — Medium
+- [Dominus][149] — Medium
+- [Arunoda Susiripala][150] — Medium
+- [Sacha Greif][151] — Medium
+- [Paul van Zyl][152] — Medium
 
 Если я забыл кого-то, то дайте знать мне ([@_benstr][1]) или [@joshowens][22] 
 
