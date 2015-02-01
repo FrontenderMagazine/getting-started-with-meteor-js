@@ -166,8 +166,8 @@
 
 ### Другие статьи, наподобие этой
 
-[Best Learning Resources for Meteor.js][154] от Stephan Hochhaus
-[Learn Meteor.js Properly][155] от Richard ?
+- [Best Learning Resources for Meteor.js][154] от Stephan Hochhaus
+- [Learn Meteor.js Properly][155] от Richard ?
 
  [1]: https://twitter.com/_benstr
  [2]: http://meteor.com
