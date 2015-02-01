@@ -121,7 +121,7 @@
 
 Ух ты, вы должно быть упорный, раз дошли так далеко. Ладно, вы хотите знать мои суперсекретные списки?
 
-### Сервис провайдеры {#serviceproviders}
+### Сервис провайдеры
 
 Когда вам нужно разместить ваше приложение он-лайн, то есть огромное количество сервис провайдеров доступных для разработчика. Ниже несколько, которые служат целям Meteor сообщества (и делают отличную работу), поэтому я решил озвучить их имена.
 
@@ -166,6 +166,8 @@
 
 ### Другие статьи, наподобие этой
 
+[Best Learning Resources for Meteor.js][154] от Stephan Hochhaus
+[Learn Meteor.js Properly][155] от Richard ?
 
  [1]: https://twitter.com/_benstr
  [2]: http://meteor.com
@@ -320,3 +322,5 @@
  [151]: https://medium.com/@sachagreif
  [152]: https://medium.com/@pushplaybang
  [153]: http://ru.discovermeteor.com
+ [154]: https://www.yauh.de/best-learning-resources-for-meteorjs/
+ [155]: http://javascriptissexy.com/learn-meteor-js-properly/
